@@ -1,4 +1,4 @@
-# SQL Data Warehouse — Medallion Architecture
+# Retail Data Warehouse — Medallion Architecture (SQL Server)
  
 A portfolio project demonstrating how to design and build a SQL Server data warehouse using the Medallion Architecture (Bronze → Silver → Gold). Built on a realistic CRM and ERP dataset, it covers end-to-end ETL pipelines, data quality checks, dimensional modelling, and a star-schema analytical layer ready for BI tools.
  
